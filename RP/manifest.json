@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"penguinbtw"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.5.2"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "hide and seek test",
+		"description": "idk why not",
+		"min_engine_version": [
+			1,
+			19,
+			50
+		],
+		"uuid": "f541311b-4594-4873-a077-7ddfb1f1babe",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "5db0c245-903e-4267-b2cc-3c75b63e56a0",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "3da69f6d-b90e-4cf8-96ea-dd1173a6eb1f",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

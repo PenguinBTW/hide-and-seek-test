@@ -1,0 +1,15 @@
+{
+	"resource_pack_name": "hide and seek test",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"pb_seek_sword": {
+			"textures": "textures/items/seek_sword"
+		},
+		"pb_hider_gone": {
+			"textures": "textures/items/hider_gone"
+		},
+		"pb_no_hider": {
+			"textures": "textures/items/no_hider"
+		}
+	}
+}
